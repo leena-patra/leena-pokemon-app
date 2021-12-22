@@ -1,4 +1,4 @@
-SHELL=bash
+SHELL=bash -ex 
 
 my_repo_name=nja-pokemon-gha-demo
 

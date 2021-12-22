@@ -1,6 +1,6 @@
 {
-    "name": "@school-of-tech-futures-uk/leena-pokemon-app",
-    "version": "0.0.1",
+    "name": "@school-of-tech-futures-uk/pokemon-app-leena",
+    "version": "0.0.3",
     "description": "School of Tech Futures (SoTF) - simple Pokemon app for demos and use in GitHub",
     "author": "SoTF",
     "license": "MIT",
@@ -16,7 +16,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/School-Of-Tech-Futures-UK/sotf-github-actions-demo.git"
+        "url": "https://github.com/leena-patra/leena-pokemon-app.git"
     },
     "dependencies": {
         "express": "^4.17.1",
